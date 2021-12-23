@@ -1,0 +1,10 @@
+let groups = [];
+let hobbies = ["sports", "cooking", "writing", "coding", "cruising", "reading"];
+let numbers = [2, 4, 6, 7, 16];
+console.log(numbers[1]);
+console.log(hobbies[5]);
+hobbies.push("fakehobby");
+console.log(hobbies[6]);
+console.log(hobbies.length);
+hobbies = [];
+console.log(hobbies);
